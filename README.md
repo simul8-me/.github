@@ -10,7 +10,7 @@
 
 We are a German company based in the Allgäu region, developing and distributing practical equipment for emergency medical services, paramedics, first responders, and rescue organizations.
 
-Our philosophy is simple: **From the field, for the field.**
+Our philosophy is simple: **From real-world experience, for real-world use.**
 
 Our products are developed by people with hands-on experience in emergency medical services. From initial concepts and prototypes in our own workshop to real-world testing and production, we focus on practical solutions that make everyday work easier.
 
